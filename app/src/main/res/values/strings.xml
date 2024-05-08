@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tiktactoe</string>
+    <string name="restart" />
+</resources>
